@@ -44,4 +44,4 @@ An investigation covering file system recovery, live host volatile memory analys
 
 ---
 **Contact**
-* **Email:** s4123419@rmit.edu.vn
+* **Email:** pedrolechi1997@gmail.com
