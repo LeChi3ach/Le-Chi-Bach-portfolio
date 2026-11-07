@@ -4,6 +4,7 @@ Welcome to my technical portfolio!. My name is **Le Chi Bach**. I am an Informat
 ---
 
 ## Portfolio directory 
+
 ### 1. Network Defense & Cryptography Analysis
 An engineering evaluation focusing on traffic monitoring, gateway access control lists (ACLs), cryptographic robustness and source-code auditing.
 * **Intrusion Detection (Snort IDS):** Deploy and configure a Network Intrusion Detection System (**Snort**) on a gateway router to capture and log unauthorized probes.
