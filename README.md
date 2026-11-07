@@ -32,8 +32,8 @@ An investigation covering file system recovery, live host volatile memory analys
 * **Volatile Memory Forensics (Volatility 3):** Dissected a live system memory dump using **Volatility 3** architecture. Executed internal kernel audits, extracted dynamic running process blocks , audited system handles, mapped active registry hives, and  loaded Dynamic Link Libraries.
 * **Network Traffic Forensics (DDoS Investigation):** Analyzed live network packet captures targeting a corporate infrastructure. Developed targeted **Wireshark filters** to isolate concurrent connections, leading to the successful mitigation and identification of botnet-driven **SYN Flood** and **HTTP Flood** anomalies.
 * **Low-Level Mobile Data Acquisition:** Configured an isolated testing environment using **Android Studio** to deploy an Android 14 subsystem under Google APIs. Authenticated daemon structures via root privilege execution to bypass File-Based Encryption (FBE) restrictions and safely pull logical application-layer relational database images via Android Debug Bridge (**ADB**).
-* **[View Full Technical Report (PDF)](./02-Digital-Foresnic/Disk_Imaging_Digital_Forensic_and_Memory_Artifacts_Analysis.pdf)**
-* **[View Full Technical Report (PDF)](./02-Digital-Foresnic/Network_Traffic_Forensic_and_Mobile_Artifacts_Extraction.pdf)**
+* **[View Full Technical Report (PDF)](./02-Digital-Forensic/Disk_Imaging_Digital_Forensic_and_Memory_Artifacts_Analysis.pdf)**
+* **[View Full Technical Report (PDF)](./02-Digital-Forensic/Network_Traffic_Forensic_and_Mobile_Artifacts_Extraction.pdf)**
 
 ## Technical Stack & Utilities
 * **Operating Systems:** Linux Administration, Linux CLI.
