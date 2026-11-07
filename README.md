@@ -10,4 +10,4 @@ An engineering evaluation focusing on traffic monitoring, gateway access control
 * **Firewall Architectures (Iptables):** Engineered stateless and stateful packet filtering policies using **iptables** to block outbound movement while securing enterprise service ports.
 * **Symmetric Encryption Resilience:** Evaluated the risks of **AES-128-ECB** against **AES-128-CBC** mode. Utilized hex-header manipulation to demonstrate pattern preservation vulnerabilities in ECB ciphertexts.
 * **Infrastructure Auditing:** Automated active asset discovery and OS fingerprinting via **Nmap**; applied Static Application Security Testing (SAST) with **Flawfinder** to discover and remediate memory boundaries and integer overflow flaws in C source code.
-* **[View Full Technical Report (PDF)](./01-Network-Defense/Network_Defense_Firewall_and_Cryptographic_Analysis.pdf)
+* **[View Full Technical Report (PDF)](./01-Security-Testing/Network_Defense_Firewall_and_Cryptographic_Analysis.pdf)
